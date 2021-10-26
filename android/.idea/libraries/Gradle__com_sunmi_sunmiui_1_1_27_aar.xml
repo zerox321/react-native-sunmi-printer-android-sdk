@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sunmi:sunmiui:1.1.27@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5acf866f012db32491329df21edba8f3/transformed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5acf866f012db32491329df21edba8f3/transformed/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5acf866f012db32491329df21edba8f3/transformed/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
