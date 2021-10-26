@@ -16,8 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zerox321/SunmiPrinter.git",
-    "baseUrl": "https://github.com/zerox321/SunmiPrinter"
+    "url": "git+https://github.com/react-native-sunmi-printer-android-sdk.git",
+    "baseUrl": "https://github.com/react-native-sunmi-printer-android-sdk"
+    
   },
   "keywords": [
     "react-native"
