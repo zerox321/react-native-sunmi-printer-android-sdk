@@ -55,6 +55,8 @@ android {
     lintOptions {
         abortOnError false
     }
+
+   configurations { compile.exclude group: 'com.google.zxing'}
 }
 
 repositories {
